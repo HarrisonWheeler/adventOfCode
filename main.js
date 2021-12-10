@@ -1,5 +1,6 @@
 // Day 1 puzzle 1
 
+// #region
 let measurements = [
   109,
   117,
@@ -2001,6 +2002,7 @@ let measurements = [
   6293,
   6297,
   6308]
+// #endregion
 
 function countIncrease() {
   let amountIncreased = 0
